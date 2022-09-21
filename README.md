@@ -1,0 +1,2 @@
+# dog-photo-gallery
+This app allows the users to select a dog breed and then view one, three or five random photo's of that breed at a time. Users can also hit a "random" button to see one picture of random dog if they can't decide on a breed. I used Python, Flask, and HTTP methods. I converted a JSON data file from an API into a dictionary that is compatible with the app. Also used Jinja placeholders to send data users request to the HTML template. 
